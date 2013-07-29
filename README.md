@@ -3,7 +3,7 @@ Temperature Converter
 
 This is the first assignment of my iOS class in Yahoo!.
 The goal is to build a simple temperature converter, that
-we can use it to convert a temperature between Celsius and Fahrenheit degrees.
+we can use it to convert a temperature between Celsius and Fahrenheit scales.
 
 ### Screenshots
 
